@@ -1,2 +1,3 @@
-Font44.cpp libraries/DisplayCore/Font44
-Font44.h libraries/DisplayCore/Font44
+library.json libraries/DisplayCore/Font44
+library.properties libraries/DisplayCore/Font44
+src libraries/DisplayCore/Font44
